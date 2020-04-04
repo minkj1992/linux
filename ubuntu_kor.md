@@ -10,3 +10,6 @@
 
 - 너무나 감사한 블로그
 - 정리해주셔서 너무 감사합니다.
+
+- **한가지 에러는 xmodmap은 18.04 기준으로 .sh로 설정해주던지 해야 했다.**
+- 이를 해결하기 위해서는 bin 파일을 수정하던지, `Tweaks`에서 `Keyboard & Mouse > Additional Layout Options > Korean Hangul/Hanja keys > Right Alt as Hangul, right Ctrl as Hanja 체크` 하면된다.
