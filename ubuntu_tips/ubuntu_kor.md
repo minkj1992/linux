@@ -13,3 +13,4 @@
 
 - **한가지 에러는 xmodmap은 18.04 기준으로 .sh로 설정해주던지 해야 했다.**
 - 이를 해결하기 위해서는 bin 파일을 수정하던지, `Tweaks`에서 `Keyboard & Mouse > Additional Layout Options > Korean Hangul/Hanja keys > Right Alt as Hangul, right Ctrl as Hanja 체크` 하면된다.
+- 아직 (20.05.31 기준) window키를 눌러서 검색하는 파트에서 한글이 먹히지 않는다.
